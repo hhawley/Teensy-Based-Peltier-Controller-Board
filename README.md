@@ -11,3 +11,5 @@ I will include a diagram demonstrating how the code works in the future.
 The version of FreeRTOS used for this the teensy is [freertos-teensy-10.4.1](https://github.com/tsandmann/freertos-teensy)
 
 This code was written with the intention to be used with [PlatformIO](https://platformio.org/).
+
+![Final enclosure which includes the Teensy and all the electronics](setup.jpg)
